@@ -54,7 +54,7 @@ This project was created by [Oscar Lopez](https://github.com/oscar-dev19).
 ## Acknowledgments
 
 - Special thanks to the Rust community for their support and resources that have made learning Rust enjoyable and accessible.
-- A heartfelt acknowledgment to my Computer Science Professor, Professor Jardin, for their guidance and encouragement throughout my studies.
+- A heartfelt acknowledgment to my Computer Science Professor, Professor Jardin, for his guidance and encouragement throughout my studies.
 - Thanks to Steve Klabnik and Carol Nichols, authors of *The Rust Programming Language*, for their invaluable work in providing a comprehensive resource for Rust learners.
 
 ## License
